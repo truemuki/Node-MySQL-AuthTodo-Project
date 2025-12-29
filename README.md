@@ -13,7 +13,7 @@
 
 ``bash
 npm install
-``bash
+
 
 npm i
 
